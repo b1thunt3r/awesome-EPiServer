@@ -4,6 +4,8 @@ Goal for me is to use this page instead of bookmarks for EPiServer resources.
 Going to have resources for both EPiServer CMS 7/7.5+ and 6 and other EPiServer products.
 
 ## EPiServer 6
+### Pages
+- [Container pages](http://world.episerver.com/Blogs/Linus-Ekstrom/Dates/2011/3/Container-pages/)
 
 ## EPiServer 7/7.5+
 ### Editor UI
@@ -16,3 +18,7 @@ Going to have resources for both EPiServer CMS 7/7.5+ and 6 and other EPiServer 
 - [Menu Provider for EPiServer Top Navigation](http://world.episerver.com/blogs/Jacob-Khan/Dates/2013/1/Menu-Provider-for-EPiServer-Top-Navigation/)
 - [Extending the navigation](http://world.episerver.com/documentation/items/developers-guide/episerver-cms/75/user-interface/extending-the-navigation/)
 - [MenuPin for EPiServer](https://github.com/davidknipe/MenuPin/)
+
+### Properties
+#### Defining
+- [How to define properties in EPiServer 7 - A quick reference](http://world.episerver.com/blogs/Alexander-Haneng/Dates/2012/7/How-to-define-properties-in-EPiServer-7---A-quick-reference/)
