@@ -4,8 +4,14 @@ Goal for me is to use this page instead of bookmarks for EPiServer resources.
 Going to have resources for both EPiServer CMS 7/7.5+ and 6 and other EPiServer products.
 
 ## EPiServer 6
+### OnlineCenter
+- [OnlineCenter Development](http://world.episerver.com/Documentation/Items/Tech-Notes/EPiServer-CMS-6/EPiServer-CMS-60/OnlineCenter-Developer-Documentation/)
+- [OnlineCenter Development :arrow_right: Shell Modules](http://world.episerver.com/Documentation/Items/Tech-Notes/EPiServer-CMS-6/EPiServer-CMS-60/OnlineCenter-Developer-Documentation/#ShellModules)
 ### Pages
 - [Container pages](http://world.episerver.com/Blogs/Linus-Ekstrom/Dates/2011/3/Container-pages/)
+
+### Editor UI
+- [Modal Dialogs in the EPiServer UI for Non-IE Browsers](http://world.episerver.com/articles/Items/Modal-Dialogs-in-the-EPiServer-UI-for-non-IE-Browsers/) Guess, this one is for CMS 5, but was still relevant in 8! :wink:
 
 ## EPiServer 7/7.5+
 ### Editor UI
@@ -26,3 +32,20 @@ Going to have resources for both EPiServer CMS 7/7.5+ and 6 and other EPiServer 
 
 #### Rendering
 - [Rendering](http://world.episerver.com/documentation/Items/Developers-Guide/EPiServer-CMS/8/Rendering/Rendering/)
+
+### Add-ons
+#### Create
+- [Developing simple add-on for EPiServer 7 Preview](http://dmytroduk.com/techblog/developing-simple-add-on-for-episerver-7-preview)
+
+## Useful resources
+Most of them, each EPi developer should know by heart. But I going to post them for the new ones to the club!
+### Install and Update
+- [Installing EPiServer](http://world.episerver.com/documentation/Items/Installation-Instructions/installing-episerver/)
+- [Installing EPiServer updates](http://world.episerver.com/documentation/Items/Installation-Instructions/Installing-EPiServer-updates/)
+
+### Sites
+
+### Blogs
+
+### Other Resources
+- [EPiServer Nuget Feed](http://nuget.episerver.com/)
