@@ -32,20 +32,22 @@ Going to have resources for both EPiServer CMS 7/7.5+ and 6 and other EPiServer 
 
 #### Rendering
 - [Rendering](http://world.episerver.com/documentation/Items/Developers-Guide/EPiServer-CMS/8/Rendering/Rendering/)
+- [EPiServer 7 and MVC – How to customize rendering of properties](http://joelabrahamsson.com/episerver-7-and-mvc-how-to-customize-rendering-of-properties/)
 
 ### Add-ons
 #### Create
 - [Developing simple add-on for EPiServer 7 Preview](http://dmytroduk.com/techblog/developing-simple-add-on-for-episerver-7-preview)
 
-## Useful resources
+## Useful Resources
 Most of them, each EPi developer should know by heart. But I going to post them for the new ones to the club!
 ### Install and Update
 - [Installing EPiServer](http://world.episerver.com/documentation/Items/Installation-Instructions/installing-episerver/)
 - [Installing EPiServer updates](http://world.episerver.com/documentation/Items/Installation-Instructions/Installing-EPiServer-updates/)
 
-### Sites
-
 ### Blogs
+- [Joel Abrahamsson :arrow_right: EPiServer](http://joelabrahamsson.com/episerver/)
 
 ### Other Resources
 - [EPiServer Nuget Feed](http://nuget.episerver.com/)
+
+### Other Sites
