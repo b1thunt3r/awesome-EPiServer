@@ -10,6 +10,9 @@ Going to have resources for both EPiServer CMS 7/7.5+ and 6 and other EPiServer 
 ### Pages
 - [Container pages](http://world.episerver.com/Blogs/Linus-Ekstrom/Dates/2011/3/Container-pages/)
 
+#### XForms
+- [Sending confirmation email to the user when using EPiServer XForms](http://www.frederikvig.com/2009/10/sending-confirmation-email-to-the-user-when-using-episerver-xforms/)
+
 ### Editor UI
 - [Modal Dialogs in the EPiServer UI for Non-IE Browsers](http://world.episerver.com/articles/Items/Modal-Dialogs-in-the-EPiServer-UI-for-non-IE-Browsers/) Guess, this one is for CMS 5, but was still relevant in 8! :wink:
 
@@ -28,7 +31,7 @@ Going to have resources for both EPiServer CMS 7/7.5+ and 6 and other EPiServer 
 
 #### Properties
 - [How to define properties in EPiServer 7 - A quick reference](http://world.episerver.com/blogs/Alexander-Haneng/Dates/2012/7/How-to-define-properties-in-EPiServer-7---A-quick-reference/)
-
+- [Improved CategoryList editor descriptor for EPiServer](http://geta.no/blogg/improved-categorylist-editor-descriptor-for-episerver/)
 ##### Dojo
 - [EPiServer: writing Dojo widget](http://marisks.net/2014/04/11/episerver-writing-dojo-widget/)
 - [EPiServer custom property in DOJO](http://www.patrickvankleef.com/2015/02/03/episerver-custom-property-in-dojo/)
@@ -40,6 +43,7 @@ Going to have resources for both EPiServer CMS 7/7.5+ and 6 and other EPiServer 
 #### Rendering
 - [Rendering](http://world.episerver.com/documentation/Items/Developers-Guide/EPiServer-CMS/8/Rendering/Rendering/)
 - [EPiServer 7 and MVC – How to customize rendering of properties](http://joelabrahamsson.com/episerver-7-and-mvc-how-to-customize-rendering-of-properties/)
+- [EPiServer Front-End Style Guide](http://ux.episerver.com/index.html) Lots of goodies...
 
 ### DDS
 - [STORING DATA USING EPISERVER 7.5 DYNAMIC DATA STORE](http://roland.kierkels.net/episerver/storing-data-using-episerver-7-5-dynamic-data-store/)
@@ -56,6 +60,8 @@ Most of them, each EPi developer should know by heart. But I going to post them 
 
 ### Blogs
 - [Joel Abrahamsson :arrow_right: EPiServer](http://joelabrahamsson.com/episerver/)
+- [Frederik Vig :arrow_right: EPiServer](http://www.frederikvig.com/category/episerver/)
+- [Blogg om EPiServer og netthandel - Geta AS](http://geta.no/blogg/)
 
 ### Other Resources
 - [EPiServer Nuget Feed](http://nuget.episerver.com/)
