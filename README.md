@@ -20,6 +20,8 @@ Going to have resources for both EPiServer CMS 7/7.5+ and 6 and other EPiServer 
 - [How to define properties in EPiServer 7 - A quick reference](http://world.episerver.com/blogs/Alexander-Haneng/Dates/2012/7/How-to-define-properties-in-EPiServer-7---A-quick-reference/)
 - [Improved CategoryList editor descriptor for EPiServer](http://geta.no/blogg/improved-categorylist-editor-descriptor-for-episerver/)
 - [:octocat: EPiImage](https://github.com/tuanvt/EPiImage-7.1) - Great property for better image management in EPi.
+- [EPiKnowledge :arrow_right: Properties](http://www.epiknowledge.com/en/episerver/75/properties/)
+- [Restriction of content types in properties](http://world.episerver.com/Blogs/Linus-Ekstrom/Dates/2013/12/Restriction-of-content-types-in-properties/) Covers both PageTypes and ContentAreas
 
 ##### Dojo
 - [EPiServer: writing Dojo widget](http://marisks.net/2014/04/11/episerver-writing-dojo-widget/)
