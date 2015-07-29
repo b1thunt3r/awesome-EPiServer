@@ -32,13 +32,16 @@ Note: :globe_with_meridians: marks, that the article if on EPiServer World
 - [The Dojo Toolkit API](http://dojotoolkit.org/api/) - Just in case
 - [Useful EPiServer Dojo links](http://www.david-tec.com/2014/08/EPiServer-Dojo-Useful-links/) - A list with links relevant to custom properties and Doji in EPi.
 
-### PageTypes
+### PageTypes/ContentTypes
 - [:globe_with_meridians: How to define default values for pages and blocks in EPiServer CMS 7](http://world.episerver.com/blogs/Alexander-Haneng/Dates/2012/9/How-to-define-default-values-for-pages-and-blocks-in-EPiServer-CMS-7/)
+- [:globe_with_meridians: Content type attributes](http://world.episerver.com/documentation/Items/Developers-Guide/EPiServer-CMS/8/Content/Attributes/)
+- [:globe_with_meridians: Restricting available page types for Root page](http://world.episerver.com/blogs/Dan-Matthews/Dates/2013/11/Restricting-available-page-types-for-Root-page/)
  
 #### Rendering
 - [:globe_with_meridians: Rendering](http://world.episerver.com/documentation/Items/Developers-Guide/EPiServer-CMS/8/Rendering/Rendering/)
 - [EPiServer 7 and MVC – How to customize rendering of properties](http://joelabrahamsson.com/episerver-7-and-mvc-how-to-customize-rendering-of-properties/)
 - [EPiServer Front-End Style Guide](http://ux.episerver.com/index.html) - Lots of goodies...
+- [Render image properties in EPiServer 7.5](http://tedgustaf.com/blog/2014/4/render-image-properties-in-episerver-75/)
 
 ### DDS
 - [STORING DATA USING EPISERVER 7.5 DYNAMIC DATA STORE](http://roland.kierkels.net/episerver/storing-data-using-episerver-7-5-dynamic-data-store/)
