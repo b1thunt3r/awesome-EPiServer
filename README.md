@@ -19,6 +19,7 @@ Note: :globe_with_meridians: marks, that the article if on EPiServer World
 - [:octocat: MenuPin for EPiServer](https://github.com/davidknipe/MenuPin/)
 
 #### Properties
+- [:globe_with_meridians: Built-in property types](http://world.episerver.com/documentation/Items/Developers-Guide/EPiServer-CMS/8/Content/Properties/Property-types/built-in-property-types/)
 - [:globe_with_meridians: How to define properties in EPiServer 7 - A quick reference](http://world.episerver.com/blogs/Alexander-Haneng/Dates/2012/7/How-to-define-properties-in-EPiServer-7---A-quick-reference/)
 - [Improved CategoryList editor descriptor for EPiServer](http://geta.no/blogg/improved-categorylist-editor-descriptor-for-episerver/)
 - [:octocat: EPiImage](https://github.com/tuanvt/EPiImage-7.1) - Great property for better image management in EPi.
@@ -37,6 +38,11 @@ Note: :globe_with_meridians: marks, that the article if on EPiServer World
 - [:globe_with_meridians: How to define default values for pages and blocks in EPiServer CMS 7](http://world.episerver.com/blogs/Alexander-Haneng/Dates/2012/9/How-to-define-default-values-for-pages-and-blocks-in-EPiServer-CMS-7/)
 - [:globe_with_meridians: Content type attributes](http://world.episerver.com/documentation/Items/Developers-Guide/EPiServer-CMS/8/Content/Attributes/)
 - [:globe_with_meridians: Restricting available page types for Root page](http://world.episerver.com/blogs/Dan-Matthews/Dates/2013/11/Restricting-available-page-types-for-Root-page/)
+- [:globe_with_meridians: Limiting a Page Property to a specific Page Type in EPiServer 7](http://world.episerver.com/blogs/Alexander-Haneng/Dates/2013/1/Limiting-a-Page-Property-to-a-specific-Page-Type-in-EPiServer-7/) Even though AllowedType has been added to EPi 7.5, i think this might still be useful in some scenarios other then ContentType or ContentArea.
+- [Fallback property values in EPiServer using attributes](http://tedgustaf.com/blog/2014/11/fallback-property-values-in-episerver-using-attributes/) Two ways of having fallback values
+
+#### Retrieve
+- [How to get a page in EPiServer 7](http://tedgustaf.com/blog/2013/10/how-to-get-a-page-in-episerver-7/)
  
 #### Rendering
 - [:globe_with_meridians: Rendering](http://world.episerver.com/documentation/Items/Developers-Guide/EPiServer-CMS/8/Rendering/Rendering/)
@@ -46,15 +52,24 @@ Note: :globe_with_meridians: marks, that the article if on EPiServer World
 - [:globe_with_meridians: EPiServer 7 - Rendering of content](http://world.episerver.com/blogs/Johan-Bjornfot/Dates1/2012/9/EPiServer-7--Rendering-of-content/)
 - [Building a PDF Channel for EPiServer 7](http://joelabrahamsson.com/building-a-pdf-channel-for-episerver-7/)
 
+### Categories
+- [Programmatically retrieve the categories that can be assigned to pages in Episerver](http://stackoverflow.com/questions/23027114/programmatically-retrieve-the-categories-that-can-be-assigned-to-pages-in-episer)
+
 ### DDS
 - [STORING DATA USING EPISERVER 7.5 DYNAMIC DATA STORE](http://roland.kierkels.net/episerver/storing-data-using-episerver-7-5-dynamic-data-store/)
 
 ### Media
 - [:globe_with_meridians: Media types and templates](http://world.episerver.com/documentation/Items/Developers-Guide/EPiServer-CMS/8/Content/Assets-and-media/Media-types-and-templates/)
+- [:globe_with_meridians:  Working with media](http://world.episerver.com/documentation/Items/Developers-Guide/EPiServer-CMS/8/Content/Assets-and-media/Working-with-media/)
 
 ### Add-ons
+- [Introducing Virtual Template System for EPiServer](Introducing Virtual Template System for EPiServer)
 #### Create
 - [Developing simple add-on for EPiServer 7 Preview](http://dmytroduk.com/techblog/developing-simple-add-on-for-episerver-7-preview)
+
+## EPiServer 8
+Will only try to outline the breaking changes (yes code breaking changes :stuck_out_tongue_closed_eyes:) from EPiServer 7.5.
+- [Changes to the Category API in CMS 8](http://world.episerver.com/documentation/Items/Upgrading/EPiServer-CMS/8/Breaking-changes/changes-to-the-category-api/)
 
 ## EPiServer 6
 ### OnlineCenter
@@ -74,6 +89,11 @@ Note: :globe_with_meridians: marks, that the article if on EPiServer World
 ### Editor UI
 - [:globe_with_meridians: Modal Dialogs in the EPiServer UI for Non-IE Browsers](http://world.episerver.com/articles/Items/Modal-Dialogs-in-the-EPiServer-UI-for-non-IE-Browsers/) - Guess, this one is for CMS 5, but was still relevant in 8! :wink:
 
+## Performance
+
+### Profiling
+- [Using MiniProfiler with EPiServer CMS7](http://www.markeverard.com/2013/03/14/using-miniprofiler-with-episerver-cms7/)
+
 ## Useful Resources
 Most of them, each EPi developer should know by heart. But I going to post them for the new ones to the club!
 ### Install and Update
@@ -91,3 +111,9 @@ Most of them, each EPi developer should know by heart. But I going to post them 
 ### Other Sites
 - [:globe_with_meridians: World](http://world.episerver.com/) - It never hurts to have most of the obvious in the list...
 - [:octocat: awesome-EPiServer 7.5](https://github.com/giladDAN/awesome-EPiServer) - Didn't really know about this one, when I started with this list.
+
+### Page/Site Validation
+
+#### WCAG
+- [Web Accessibility Checker](http://achecker.ca/checker/index.php)
+- [Web Accessibility Evaluation tool](http://wave.webaim.org/)
