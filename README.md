@@ -24,6 +24,7 @@ Note: :globe_with_meridians: marks, that the article if on EPiServer World
 - [:octocat: EPiImage](https://github.com/tuanvt/EPiImage-7.1) - Great property for better image management in EPi.
 - [EPiKnowledge :arrow_right: Properties](http://www.epiknowledge.com/en/episerver/75/properties/)
 - [:globe_with_meridians: Restriction of content types in properties](http://world.episerver.com/Blogs/Linus-Ekstrom/Dates/2013/12/Restriction-of-content-types-in-properties/) Covers both PageTypes and ContentAreas
+- [Joel Abrahamsson :arrow_right: Content areas](http://joelabrahamsson.com/tag/content-areas/)
 
 ##### Dojo
 - [EPiServer: writing Dojo widget](http://marisks.net/2014/04/11/episerver-writing-dojo-widget/)
@@ -42,9 +43,14 @@ Note: :globe_with_meridians: marks, that the article if on EPiServer World
 - [EPiServer 7 and MVC – How to customize rendering of properties](http://joelabrahamsson.com/episerver-7-and-mvc-how-to-customize-rendering-of-properties/)
 - [EPiServer Front-End Style Guide](http://ux.episerver.com/index.html) - Lots of goodies...
 - [Render image properties in EPiServer 7.5](http://tedgustaf.com/blog/2014/4/render-image-properties-in-episerver-75/)
+- [:globe_with_meridians: EPiServer 7 - Rendering of content](http://world.episerver.com/blogs/Johan-Bjornfot/Dates1/2012/9/EPiServer-7--Rendering-of-content/)
+- [Building a PDF Channel for EPiServer 7](http://joelabrahamsson.com/building-a-pdf-channel-for-episerver-7/)
 
 ### DDS
 - [STORING DATA USING EPISERVER 7.5 DYNAMIC DATA STORE](http://roland.kierkels.net/episerver/storing-data-using-episerver-7-5-dynamic-data-store/)
+
+### Media
+- [:globe_with_meridians: Media types and templates](http://world.episerver.com/documentation/Items/Developers-Guide/EPiServer-CMS/8/Content/Assets-and-media/Media-types-and-templates/)
 
 ### Add-ons
 #### Create
