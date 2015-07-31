@@ -89,11 +89,19 @@ Will only try to outline the breaking changes (yes code breaking changes :stuck_
 
 ### Editor UI
 - [:globe_with_meridians: Modal Dialogs in the EPiServer UI for Non-IE Browsers](http://world.episerver.com/articles/Items/Modal-Dialogs-in-the-EPiServer-UI-for-non-IE-Browsers/) - Guess, this one is for CMS 5, but was still relevant in 8! :wink:
+ 
+#### Properties
+- [EPiServer CMS 6 - custom property with radiobuttonlist](http://fredrikvonwerder.blogspot.se/2010/04/episerver-cms-6-custom-property-with.html)
 
 ## Performance
+- [Performance Tuning and Optimization of EPiServer CMS](http://world.episerver.com/Articles/Items/Performance-Tuning-and-Optimization-of-EPiServer-CMS/) My guess it is still relevant for EPiServer 8, but the article is written for EPiServer 5.
 
 ### Profiling
 - [Using MiniProfiler with EPiServer CMS7](http://www.markeverard.com/2013/03/14/using-miniprofiler-with-episerver-cms7/)
+
+## Packaging
+### WebForms Project
+- [EPiServer PlugIns in one single dll](http://web.archive.org/web/20120509090548/http://labs.episerver.com/en/Blogs/Johano/Dates/2008/6/EPiServer-PlugIns-in-one-single-dll/) Have not been able to do this with a MVC projet, for now (just maybe need more time to research). Note: Had to use WayBackMachine, EPiServer seems to have broken their Labs site.
 
 ## Useful Resources
 Most of them, each EPi developer should know by heart. But I going to post them for the new ones to the club!
