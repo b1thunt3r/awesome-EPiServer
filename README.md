@@ -40,6 +40,7 @@ Note: :globe_with_meridians: marks, that the article if on EPiServer World
 - [:globe_with_meridians: Restricting available page types for Root page](http://world.episerver.com/blogs/Dan-Matthews/Dates/2013/11/Restricting-available-page-types-for-Root-page/)
 - [:globe_with_meridians: Limiting a Page Property to a specific Page Type in EPiServer 7](http://world.episerver.com/blogs/Alexander-Haneng/Dates/2013/1/Limiting-a-Page-Property-to-a-specific-Page-Type-in-EPiServer-7/) Even though AllowedType has been added to EPi 7.5, i think this might still be useful in some scenarios other then ContentType or ContentArea.
 - [Fallback property values in EPiServer using attributes](http://tedgustaf.com/blog/2014/11/fallback-property-values-in-episerver-using-attributes/) Two ways of having fallback values
+- [:globe_with_meridians: Creating a Page Programmatically](http://world.episerver.com/documentation/Items/Developers-Guide/EPiServer-CMS/7/Content/Pages-and-Blocks/How-To/Creating-a-Page-Programmatically/)
 
 #### Retrieve
 - [How to get a page in EPiServer 7](http://tedgustaf.com/blog/2013/10/how-to-get-a-page-in-episerver-7/)
