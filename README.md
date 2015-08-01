@@ -87,6 +87,9 @@ Will only try to outline the breaking changes (yes code breaking changes :stuck_
 - [:globe_with_meridians: TinyMCE Developers Guide](http://world.episerver.com/documentation/Items/Tech-Notes/EPiServer-CMS-6/EPiServer-CMS-6-R2/TinyMCE-Developers-Guide/)
 - [:globe_with_meridians: TinyMCE Developers Guide :arrow_right: Using the TinyMCE Web Control](http://world.episerver.com/documentation/Items/Tech-Notes/EPiServer-CMS-6/EPiServer-CMS-6-R2/TinyMCE-Developers-Guide/#UsingWebControl)
 
+### Relate+
+- [Attributes in EPiServer Relate+](http://karolikl.blogspot.se/2009/07/attributes-in-episerver-relate.html)
+
 ### Editor UI
 - [:globe_with_meridians: Modal Dialogs in the EPiServer UI for Non-IE Browsers](http://world.episerver.com/articles/Items/Modal-Dialogs-in-the-EPiServer-UI-for-non-IE-Browsers/) - Guess, this one is for CMS 5, but was still relevant in 8! :wink:
  
