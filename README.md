@@ -117,6 +117,9 @@ Most of them, each EPi developer should know by heart. But I going to post them 
 - [Frederik Vig :arrow_right: EPiServer](http://www.frederikvig.com/category/episerver/)
 - [Blogg om EPiServer og netthandel - Geta AS](http://geta.no/blogg/)
 
+### Developer Resources
+- [Frederik Vig :arrow_right: EPiServer Developer Resources](http://www.frederikvig.com/2010/05/episerver-developer-resources/)
+
 ### Other Resources
 - [EPiServer Nuget Feed](http://nuget.episerver.com/)
 
