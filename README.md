@@ -99,6 +99,9 @@ Will only try to outline the breaking changes (yes code breaking changes :stuck_
 #### Properties
 - [EPiServer CMS 6 - custom property with radiobuttonlist](http://fredrikvonwerder.blogspot.se/2010/04/episerver-cms-6-custom-property-with.html)
 
+### Development Environment 
+- [Moving EPiServer Dev Environment from IIS6 to IIS7](http://wp.jain.se/ishan/2011/12/16/moving-episerver-dev-environment-from-iis6-to-iis7/)
+
 ## Performance
 - [Performance Tuning and Optimization of EPiServer CMS](http://world.episerver.com/Articles/Items/Performance-Tuning-and-Optimization-of-EPiServer-CMS/) My guess it is still relevant for EPiServer 8, but the article is written for EPiServer 5.
 
