@@ -52,6 +52,7 @@ Note: :globe_with_meridians: marks, that the article if on EPiServer World
 - [Render image properties in EPiServer 7.5](http://tedgustaf.com/blog/2014/4/render-image-properties-in-episerver-75/)
 - [:globe_with_meridians: EPiServer 7 - Rendering of content](http://world.episerver.com/blogs/Johan-Bjornfot/Dates1/2012/9/EPiServer-7--Rendering-of-content/)
 - [Building a PDF Channel for EPiServer 7](http://joelabrahamsson.com/building-a-pdf-channel-for-episerver-7/)
+- [How To Add A Link Into The QuickNavigatorMenu in EpiServer](http://jondjones.com/how-to-add-a-link-into-the-quicknavigatormenu-in-episerver/)
 
 ### Categories
 - [Programmatically retrieve the categories that can be assigned to pages in Episerver](http://stackoverflow.com/questions/23027114/programmatically-retrieve-the-categories-that-can-be-assigned-to-pages-in-episer)
