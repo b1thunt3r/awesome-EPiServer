@@ -79,6 +79,9 @@ Note: :globe_with_meridians: marks, that the article if on EPiServer World
 Will only try to outline the breaking changes (yes code breaking changes :stuck_out_tongue_closed_eyes:) from EPiServer 7.5.
 - [Changes to the Category API in CMS 8](http://world.episerver.com/documentation/Items/Upgrading/EPiServer-CMS/8/Breaking-changes/changes-to-the-category-api/)
 
+### Documentation
+- [:globe_with_meridians: http://world.episerver.com/documentation/cms/](EPiServer CMS 8 documentation) Never a bad place to start
+
 ## EPiServer 6
 ### OnlineCenter
 - [:globe_with_meridians: OnlineCenter Development](http://world.episerver.com/Documentation/Items/Tech-Notes/EPiServer-CMS-6/EPiServer-CMS-60/OnlineCenter-Developer-Documentation/)
