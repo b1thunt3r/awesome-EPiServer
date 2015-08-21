@@ -126,6 +126,10 @@ Most of them, each EPi developer should know by heart. But I going to post them 
 - [:globe_with_meridians: Installing EPiServer](http://world.episerver.com/documentation/Items/Installation-Instructions/installing-episerver/)
 - [:globe_with_meridians: Installing EPiServer updates](http://world.episerver.com/documentation/Items/Installation-Instructions/Installing-EPiServer-updates/)
 
+#### Azure
+- [:globe_with_meridians: Deploying to Azure websites](http://world.episerver.com/Documentation/Items/Developers-Guide/EPiServer-CMS/75/Deployment/Deployment-scenarios/Deploying-to-Azure-websites/)
+- [http://marisks.net/2015/04/11/episerver-cms-site-as-azure-web-app/](EPiServer CMS site as Azure Web App) Howto with the new Preview portal.
+
 ### Blogs
 - [Joel Abrahamsson :arrow_right: EPiServer](http://joelabrahamsson.com/episerver/)
 - [Frederik Vig :arrow_right: EPiServer](http://www.frederikvig.com/category/episerver/)
