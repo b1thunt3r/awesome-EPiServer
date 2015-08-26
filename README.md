@@ -26,6 +26,7 @@ Note: :globe_with_meridians: marks, that the article if on EPiServer World
 - [EPiKnowledge :arrow_right: Properties](http://www.epiknowledge.com/en/episerver/75/properties/)
 - [:globe_with_meridians: Restriction of content types in properties](http://world.episerver.com/Blogs/Linus-Ekstrom/Dates/2013/12/Restriction-of-content-types-in-properties/) Covers both PageTypes and ContentAreas
 - [Joel Abrahamsson :arrow_right: Content areas](http://joelabrahamsson.com/tag/content-areas/)
+- [Content Area as Image list](https://gregwiechec.com/2015/04/content-area-as-image-lit/)
 
 ##### Dojo
 - [EPiServer: writing Dojo widget](http://marisks.net/2014/04/11/episerver-writing-dojo-widget/)
