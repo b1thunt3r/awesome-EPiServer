@@ -76,6 +76,13 @@ Note: :globe_with_meridians: marks, that the article if on EPiServer World
 ### Scheduled Jobs
 - [Scheduled Job in EPiServer CMS 6 R2](http://wp.jain.se/ishan/2013/04/16/scheduled-job-in-episerver-cms-6-r2/) Not tested, but should still be relevent for EPiServer 7+
 
+### Error handeling
+- [Custom Error Pages in EPiServer](http://www.eyecatch.no/blog/custom-error-pages-in-episerver/)
+
+#### 404
+- [EPiServer 7 : Installing BVN.404Handler for an MVC Project](http://jondjones.com/episerver-7-installing-bvn-404handler/)
+- [:globe_with_meridians: 404 handler for EPiServer 7](http://world.episerver.com/blogs/Per-Magne-Skuseth/Dates/2013/2/404-handler-for-EPiServer-7/)
+
 ## EPiServer 8
 Will only try to outline the breaking changes (yes code breaking changes :stuck_out_tongue_closed_eyes:) from EPiServer 7.5.
 - [Changes to the Category API in CMS 8](http://world.episerver.com/documentation/Items/Upgrading/EPiServer-CMS/8/Breaking-changes/changes-to-the-category-api/)
