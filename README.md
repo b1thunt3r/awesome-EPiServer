@@ -26,7 +26,7 @@ Note: :globe_with_meridians: indicates that the article if on EPiServer World
 - [EPiKnowledge :arrow_right: Properties](http://www.epiknowledge.com/en/episerver/75/properties/)
 - [:globe_with_meridians: Restriction of content types in properties](http://world.episerver.com/Blogs/Linus-Ekstrom/Dates/2013/12/Restriction-of-content-types-in-properties/) Covers both PageTypes and ContentAreas
 - [Joel Abrahamsson :arrow_right: Content areas](http://joelabrahamsson.com/tag/content-areas/)
-- [Content Area as Image list](https://gregwiechec.com/2015/04/content-area-as-image-lit/)
+- [Content Area as Image list](https://gregwiechec.com/2015/04/content-area-as-image-list/)
 - [Joel Abrahamsson :arrow_right: Hiding EPiServer's standard Category property](http://joelabrahamsson.com/hiding-episervers-standard-category-property/)
 - [:globe_with_meridians: Strongly typed TinyMCE settings](http://world.episerver.com/Blogs/Torjus-Eidet/Dates/2014/4/Strongly-typed-TinyMCE-settings/) Handy for specialized XHTML editor areas.
 - [Joel Abrahamsson :arrow_right: Hiding EPiServer's standard Category property](http://joelabrahamsson.com/hiding-episervers-standard-category-property/)
