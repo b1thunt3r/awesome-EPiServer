@@ -74,7 +74,10 @@ Note: :globe_with_meridians: indicates that the article if on EPiServer World
 - [Developing simple add-on for EPiServer 7 Preview](http://dmytroduk.com/techblog/developing-simple-add-on-for-episerver-7-preview)
 
 ### Authentication
-- [Setup MultiplexMemebershipProvider in EPiServer](http://wp.jain.se/ishan/2011/12/07/setup-multiplexmemebershipprovider-in-episerver/) Wrote it for EPi6, but i think it is still relevant.
+- [Setup MultiplexMemebershipProvider in EPiServer](http://wp.jain.se/ishan/2011/12/07/setup-multiplexmemebershipprovider-in-episerver/) 
+Wrote it for EPi6, but i think it is still relevant.
+- [Handling EPiServer users and roles - reference list](https://www.epinova.no/blog/arild-henrichsen/dates/2011/10/handling-episerver-users-and-roles-reference-list/)
+Written for EPi 5/6, but still valid for EPi8.
 
 ### Scheduled Jobs
 - [Scheduled Job in EPiServer CMS 6 R2](http://wp.jain.se/ishan/2013/04/16/scheduled-job-in-episerver-cms-6-r2/) Not tested, but should still be relevent for EPiServer 7+
