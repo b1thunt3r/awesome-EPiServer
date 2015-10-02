@@ -22,9 +22,11 @@ Note: :globe_with_meridians: indicates that the article if on EPiServer World
 - [:globe_with_meridians: Built-in property types](http://world.episerver.com/documentation/Items/Developers-Guide/EPiServer-CMS/8/Content/Properties/Property-types/built-in-property-types/)
 - [:globe_with_meridians: How to define properties in EPiServer 7 - A quick reference](http://world.episerver.com/blogs/Alexander-Haneng/Dates/2012/7/How-to-define-properties-in-EPiServer-7---A-quick-reference/)
 - [Improved CategoryList editor descriptor for EPiServer](http://geta.no/blogg/improved-categorylist-editor-descriptor-for-episerver/)
-- [:octocat: EPiImage](https://github.com/tuanvt/EPiImage-7.1)Great property for better image management in EPi.
+- [:octocat: EPiImage](https://github.com/tuanvt/EPiImage-7.1)
+Great property for better image management in EPi.
 - [EPiKnowledge :arrow_right: Properties](http://www.epiknowledge.com/en/episerver/75/properties/)
-- [:globe_with_meridians: Restriction of content types in properties](http://world.episerver.com/Blogs/Linus-Ekstrom/Dates/2013/12/Restriction-of-content-types-in-properties/) Covers both PageTypes and ContentAreas
+- [:globe_with_meridians: Restriction of content types in properties](http://world.episerver.com/Blogs/Linus-Ekstrom/Dates/2013/12/Restriction-of-content-types-in-properties/)
+Covers both PageTypes and ContentAreas
 - [Joel Abrahamsson :arrow_right: Content areas](http://joelabrahamsson.com/tag/content-areas/)
 - [Content Area as Image list](https://gregwiechec.com/2015/04/content-area-as-image-list/)
 - [Joel Abrahamsson :arrow_right: Hiding EPiServer's standard Category property](http://joelabrahamsson.com/hiding-episervers-standard-category-property/)
