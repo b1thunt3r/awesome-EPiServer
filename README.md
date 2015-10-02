@@ -22,7 +22,7 @@ Note: :globe_with_meridians: indicates that the article if on EPiServer World
 - [:globe_with_meridians: Built-in property types](http://world.episerver.com/documentation/Items/Developers-Guide/EPiServer-CMS/8/Content/Properties/Property-types/built-in-property-types/)
 - [:globe_with_meridians: How to define properties in EPiServer 7 - A quick reference](http://world.episerver.com/blogs/Alexander-Haneng/Dates/2012/7/How-to-define-properties-in-EPiServer-7---A-quick-reference/)
 - [Improved CategoryList editor descriptor for EPiServer](http://geta.no/blogg/improved-categorylist-editor-descriptor-for-episerver/)
-- [:octocat: EPiImage](https://github.com/tuanvt/EPiImage-7.1) - Great property for better image management in EPi.
+- [:octocat: EPiImage](https://github.com/tuanvt/EPiImage-7.1)Great property for better image management in EPi.
 - [EPiKnowledge :arrow_right: Properties](http://www.epiknowledge.com/en/episerver/75/properties/)
 - [:globe_with_meridians: Restriction of content types in properties](http://world.episerver.com/Blogs/Linus-Ekstrom/Dates/2013/12/Restriction-of-content-types-in-properties/) Covers both PageTypes and ContentAreas
 - [Joel Abrahamsson :arrow_right: Content areas](http://joelabrahamsson.com/tag/content-areas/)
@@ -142,7 +142,7 @@ Most of them, each EPi developer should know by heart. But I going to post them 
 
 #### Azure
 - [:globe_with_meridians: Deploying to Azure websites](http://world.episerver.com/Documentation/Items/Developers-Guide/EPiServer-CMS/75/Deployment/Deployment-scenarios/Deploying-to-Azure-websites/)
-- [http://marisks.net/2015/04/11/episerver-cms-site-as-azure-web-app/](EPiServer CMS site as Azure Web App) Howto with the new Preview portal.
+- [EPiServer CMS site as Azure Web App](http://marisks.net/2015/04/11/episerver-cms-site-as-azure-web-app/) Howto with the new Preview portal.
 
 ### Blogs
 - [Joel Abrahamsson :arrow_right: EPiServer](http://joelabrahamsson.com/episerver/)
