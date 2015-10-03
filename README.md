@@ -1,9 +1,13 @@
+[PDF]: img/pdf.png
+
 # awesome-EPiServer
 EPiServer link collection
 Goal for me is to use this page instead of bookmarks for EPiServer resources. Will be transferring my bank of bookmarks and text files to here.
 Going to have resources for both EPiServer CMS 7/7.5+ and 6 and other EPiServer products.
 
-Note: :globe_with_meridians: indicates that the article if on EPiServer World
+##Note
+- :globe_with_meridians: indicates that the article if on EPiServer World
+- ![PDF][PDF] Links to a PDF cached article
 
 ## EPiServer 7/7.5+
 ### Editor UI
