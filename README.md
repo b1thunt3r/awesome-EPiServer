@@ -12,10 +12,10 @@ Going to have resources for both EPiServer CMS 7/7.5+ and 6 and other EPiServer 
 ## EPiServer 7/7.5+
 ### Editor UI
 #### Icons
-1. [Custom icons for content types](https://www.epinova.no/blog/arve-systad/dates/2014/5/custom-icons-for-content-types/)
-2. [List icons for blocks](http://jonika.nu/JonasBlogg/archives/347)
-3. [Font awesome dropdown for EPiServer edit mode](http://www.mogul.com/en/about-mogul/blog/font-awesome-dropdown-for-episerver-edit-mode)  | [:octocat:](https://github.com/mariajemaria/FontAwesomeIconsDropdown)
-4. [Page tree icons in EPiServer CMS 7.5](http://blog.nansen.com/2014/10/page-tree-icons-in-episerver-cms-75.html)
+1. [![PDF][PDF]](pdf/EPi7/Editor UI/Icons/01.pdf) | [Custom icons for content types](https://www.epinova.no/blog/arve-systad/dates/2014/5/custom-icons-for-content-types/)
+2. [![PDF][PDF]](pdf/EPi7/Editor UI/Icons/02.pdf) | [List icons for blocks](http://jonika.nu/JonasBlogg/archives/347)
+3. [![PDF][PDF]](pdf/EPi7/Editor UI/Icons/03.pdf) | [Font awesome dropdown for EPiServer edit mode](http://www.mogul.com/en/about-mogul/blog/font-awesome-dropdown-for-episerver-edit-mode)  | [:octocat:](https://github.com/mariajemaria/FontAwesomeIconsDropdown)
+4. [![PDF][PDF]](pdf/EPi7/Editor UI/Icons/04.pdf) | [Page tree icons in EPiServer CMS 7.5](http://blog.nansen.com/2014/10/page-tree-icons-in-episerver-cms-75.html)
 
 #### MenuItems
 - [:globe_with_meridians: Menu Provider for EPiServer Top Navigation](http://world.episerver.com/blogs/Jacob-Khan/Dates/2013/1/Menu-Provider-for-EPiServer-Top-Navigation/)
