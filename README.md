@@ -18,8 +18,8 @@ Going to have resources for both EPiServer CMS 7/7.5+ and 6 and other EPiServer 
 4. [:book:](pdf/EPi7/Editor UI/Icons/04.pdf) | [Page tree icons in EPiServer CMS 7.5](http://blog.nansen.com/2014/10/page-tree-icons-in-episerver-cms-75.html)
 
 #### MenuItems
-1. [:globe_with_meridians: Menu Provider for EPiServer Top Navigation](http://world.episerver.com/blogs/Jacob-Khan/Dates/2013/1/Menu-Provider-for-EPiServer-Top-Navigation/)
-2. [:globe_with_meridians: Extending the navigation](http://world.episerver.com/documentation/items/developers-guide/episerver-cms/75/user-interface/extending-the-navigation/)
+1. [:book:](pdf/EPi7/Editor UI/MenuItems/01.pdf) | [:globe_with_meridians: Menu Provider for EPiServer Top Navigation](http://world.episerver.com/blogs/Jacob-Khan/Dates/2013/1/Menu-Provider-for-EPiServer-Top-Navigation/)
+2. [:book:](pdf/EPi7/Editor UI/MenuItems/02.pdf) | [:globe_with_meridians: Extending the navigation](http://world.episerver.com/documentation/items/developers-guide/episerver-cms/75/user-interface/extending-the-navigation/)
 3. [:octocat: MenuPin for EPiServer](https://github.com/davidknipe/MenuPin/)
 
 #### Properties
