@@ -27,38 +27,45 @@ Going to have resources for both EPiServer CMS 7/7.5+ and 6 and other EPiServer 
 - [:globe_with_meridians: How to define properties in EPiServer 7 - A quick reference](http://world.episerver.com/blogs/Alexander-Haneng/Dates/2012/7/How-to-define-properties-in-EPiServer-7---A-quick-reference/)
 - [Improved CategoryList editor descriptor for EPiServer](http://geta.no/blogg/improved-categorylist-editor-descriptor-for-episerver/)
 - [:octocat: EPiImage](https://github.com/tuanvt/EPiImage-7.1)
-<br/>Great property for better image management in EPi.
+ - Great property for better image management in EPi.
 - [EPiKnowledge :arrow_right: Properties](http://www.epiknowledge.com/en/episerver/75/properties/)
 - [:globe_with_meridians: Restriction of content types in properties](http://world.episerver.com/Blogs/Linus-Ekstrom/Dates/2013/12/Restriction-of-content-types-in-properties/)
-<br/>Covers both PageTypes and ContentAreas
+ - Covers both PageTypes and ContentAreas
 - [Joel Abrahamsson :arrow_right: Content areas](http://joelabrahamsson.com/tag/content-areas/)
 - [Content Area as Image list](https://gregwiechec.com/2015/04/content-area-as-image-list/)
 - [Joel Abrahamsson :arrow_right: Hiding EPiServer's standard Category property](http://joelabrahamsson.com/hiding-episervers-standard-category-property/)
-- [:globe_with_meridians: Strongly typed TinyMCE settings](http://world.episerver.com/Blogs/Torjus-Eidet/Dates/2014/4/Strongly-typed-TinyMCE-settings/) Handy for specialized XHTML editor areas.
+- [:globe_with_meridians: Strongly typed TinyMCE settings](http://world.episerver.com/Blogs/Torjus-Eidet/Dates/2014/4/Strongly-typed-TinyMCE-settings/) 
+ - Handy for specialized XHTML editor areas.
 - [Joel Abrahamsson :arrow_right: Hiding EPiServer's standard Category property](http://joelabrahamsson.com/hiding-episervers-standard-category-property/)
 
 ##### Dojo
 - [EPiServer: writing Dojo widget](http://marisks.net/2014/04/11/episerver-writing-dojo-widget/)
 - [EPiServer custom property in DOJO](http://www.patrickvankleef.com/2015/02/03/episerver-custom-property-in-dojo/)
 - [:globe_with_meridians: Introduction to Dojo](http://world.episerver.com/documentation/Items/Developers-Guide/EPiServer-CMS/8/User-interface/Introduction-to-Dojo/)
-- [The Dojo Toolkit API](http://dojotoolkit.org/api/) - Just in case
-- [Useful EPiServer Dojo links](http://www.david-tec.com/2014/08/EPiServer-Dojo-Useful-links/) - A list with links relevant to custom properties and Doji in EPi.
+- [The Dojo Toolkit API](http://dojotoolkit.org/api/)
+ - Just in case
+- [Useful EPiServer Dojo links](http://www.david-tec.com/2014/08/EPiServer-Dojo-Useful-links/)
+ - A list with links relevant to custom properties and Doji in EPi.
 
 ### PageTypes/ContentTypes
 - [:globe_with_meridians: How to define default values for pages and blocks in EPiServer CMS 7](http://world.episerver.com/blogs/Alexander-Haneng/Dates/2012/9/How-to-define-default-values-for-pages-and-blocks-in-EPiServer-CMS-7/)
 - [:globe_with_meridians: Content type attributes](http://world.episerver.com/documentation/Items/Developers-Guide/EPiServer-CMS/8/Content/Attributes/)
 - [:globe_with_meridians: Restricting available page types for Root page](http://world.episerver.com/blogs/Dan-Matthews/Dates/2013/11/Restricting-available-page-types-for-Root-page/)
-- [:globe_with_meridians: Limiting a Page Property to a specific Page Type in EPiServer 7](http://world.episerver.com/blogs/Alexander-Haneng/Dates/2013/1/Limiting-a-Page-Property-to-a-specific-Page-Type-in-EPiServer-7/) Even though AllowedType has been added to EPi 7.5, i think this might still be useful in some scenarios other then ContentType or ContentArea.
-- [Fallback property values in EPiServer using attributes](http://tedgustaf.com/blog/2014/11/fallback-property-values-in-episerver-using-attributes/) Two ways of having fallback values
+- [:globe_with_meridians: Limiting a Page Property to a specific Page Type in EPiServer 7](http://world.episerver.com/blogs/Alexander-Haneng/Dates/2013/1/Limiting-a-Page-Property-to-a-specific-Page-Type-in-EPiServer-7/)
+- 
+ - Even though AllowedType has been added to EPi 7.5, i think this might still be useful in some scenarios other then ContentType or ContentArea.
+- [Fallback property values in EPiServer using attributes](http://tedgustaf.com/blog/2014/11/fallback-property-values-in-episerver-using-attributes/) 
+ - Two ways of having fallback values
 - [:globe_with_meridians: Creating a Page Programmatically](http://world.episerver.com/documentation/Items/Developers-Guide/EPiServer-CMS/7/Content/Pages-and-Blocks/How-To/Creating-a-Page-Programmatically/)
 
 #### Retrieve
 - [How to get a page in EPiServer 7](http://tedgustaf.com/blog/2013/10/how-to-get-a-page-in-episerver-7/)
  
 #### Rendering
-- [:globe_with_meridians: Rendering](http://world.episerver.com/documentation/Items/Developers-Guide/EPiServer-CMS/8/Rendering/Rendering/)
+- [:globe_with_meridians: Rendering](http://world.episerver.com/documentation/Items/ Developers-Guide/EPiServer-CMS/8/Rendering/Rendering/)
 - [EPiServer 7 and MVC – How to customize rendering of properties](http://joelabrahamsson.com/episerver-7-and-mvc-how-to-customize-rendering-of-properties/)
-- [EPiServer Front-End Style Guide](http://ux.episerver.com/index.html) - Lots of goodies...
+- [EPiServer Front-End Style Guide](http://ux.episerver.com/index.html)
+ - Lots of goodies...
 - [Render image properties in EPiServer 7.5](http://tedgustaf.com/blog/2014/4/render-image-properties-in-episerver-75/)
 - [:globe_with_meridians: EPiServer 7 - Rendering of content](http://world.episerver.com/blogs/Johan-Bjornfot/Dates1/2012/9/EPiServer-7--Rendering-of-content/)
 - [Building a PDF Channel for EPiServer 7](http://joelabrahamsson.com/building-a-pdf-channel-for-episerver-7/)
@@ -81,12 +88,13 @@ Going to have resources for both EPiServer CMS 7/7.5+ and 6 and other EPiServer 
 
 ### Authentication
 - [Setup MultiplexMemebershipProvider in EPiServer](http://wp.jain.se/ishan/2011/12/07/setup-multiplexmemebershipprovider-in-episerver/) 
-Wrote it for EPi6, but i think it is still relevant.
+ - Wrote it for EPi6, but i think it is still relevant.
 - [Handling EPiServer users and roles - reference list](https://www.epinova.no/blog/arild-henrichsen/dates/2011/10/handling-episerver-users-and-roles-reference-list/)
-Written for EPi 5/6, but still valid for EPi8.
+ - Written for EPi 5/6, but still valid for EPi8.
 
 ### Scheduled Jobs
-- [Scheduled Job in EPiServer CMS 6 R2](http://wp.jain.se/ishan/2013/04/16/scheduled-job-in-episerver-cms-6-r2/) Not tested, but should still be relevent for EPiServer 7+
+- [Scheduled Job in EPiServer CMS 6 R2](http://wp.jain.se/ishan/2013/04/16/scheduled-job-in-episerver-cms-6-r2/) 
+ - Not tested, but should still be relevent for EPiServer 7+
 
 ### Error handeling
 - [Custom Error Pages in EPiServer](http://www.eyecatch.no/blog/custom-error-pages-in-episerver/)
@@ -100,8 +108,10 @@ Will only try to outline the breaking changes (yes code breaking changes :stuck_
 - [Changes to the Category API in CMS 8](http://world.episerver.com/documentation/Items/Upgrading/EPiServer-CMS/8/Breaking-changes/changes-to-the-category-api/)
 
 ### Documentation
-- [:globe_with_meridians: EPiServer CMS 8 documentation](http://world.episerver.com/documentation/cms/) Never a bad place to start
-- [:globe_with_meridians: EPiServer user guides](http://world.episerver.com/documentation/Items/user-guides/) Maybe not directly for developers, but one should know how to use it
+- [:globe_with_meridians: EPiServer CMS 8 documentation](http://world.episerver.com/documentation/cms/)
+ - Never a bad place to start
+- [:globe_with_meridians: EPiServer user guides](http://world.episerver.com/documentation/Items/user-guides/) 
+ - Maybe not directly for developers, but one should know how to use it
 
 ## EPiServer 6
 ### OnlineCenter
@@ -122,7 +132,8 @@ Will only try to outline the breaking changes (yes code breaking changes :stuck_
 - [Attributes in EPiServer Relate+](http://karolikl.blogspot.se/2009/07/attributes-in-episerver-relate.html)
 
 ### Editor UI
-- [:globe_with_meridians: Modal Dialogs in the EPiServer UI for Non-IE Browsers](http://world.episerver.com/articles/Items/Modal-Dialogs-in-the-EPiServer-UI-for-non-IE-Browsers/) - Guess, this one is for CMS 5, but was still relevant in 8! :wink:
+- [:globe_with_meridians: Modal Dialogs in the EPiServer UI for Non-IE Browsers](http://world.episerver.com/articles/Items/Modal-Dialogs-in-the-EPiServer-UI-for-non-IE-Browsers/) 
+ - Guess, this one is for CMS 5, but was still relevant in 8! :wink:
  
 #### Properties
 - [EPiServer CMS 6 - custom property with radiobuttonlist](http://fredrikvonwerder.blogspot.se/2010/04/episerver-cms-6-custom-property-with.html)
@@ -131,14 +142,16 @@ Will only try to outline the breaking changes (yes code breaking changes :stuck_
 - [Moving EPiServer Dev Environment from IIS6 to IIS7](http://wp.jain.se/ishan/2011/12/16/moving-episerver-dev-environment-from-iis6-to-iis7/)
 
 ## Performance
-- [Performance Tuning and Optimization of EPiServer CMS](http://world.episerver.com/Articles/Items/Performance-Tuning-and-Optimization-of-EPiServer-CMS/) My guess it is still relevant for EPiServer 8, but the article is written for EPiServer 5.
+- [Performance Tuning and Optimization of EPiServer CMS](http://world.episerver.com/Articles/Items/Performance-Tuning-and-Optimization-of-EPiServer-CMS/) 
+ - My guess it is still relevant for EPiServer 8, but the article is written for EPiServer 5.
 
 ### Profiling
 - [Using MiniProfiler with EPiServer CMS7](http://www.markeverard.com/2013/03/14/using-miniprofiler-with-episerver-cms7/)
 
 ## Packaging
 ### WebForms Project
-- [EPiServer PlugIns in one single dll](http://web.archive.org/web/20120509090548/http://labs.episerver.com/en/Blogs/Johano/Dates/2008/6/EPiServer-PlugIns-in-one-single-dll/) Have not been able to do this with a MVC projet, for now (just maybe need more time to research). Note: Had to use WayBackMachine, EPiServer seems to have broken their Labs site.
+- [EPiServer PlugIns in one single dll](http://web.archive.org/web/20120509090548/http://labs.episerver.com/en/Blogs/Johano/Dates/2008/6/EPiServer-PlugIns-in-one-single-dll/) 
+ - Have not been able to do this with a MVC projet, for now (just maybe need more time to research). Note: Had to use WayBackMachine, EPiServer seems to have broken their Labs site.
 
 ## Useful Resources
 Most of them, each EPi developer should know by heart. But I going to post them for the new ones to the club!
@@ -148,7 +161,8 @@ Most of them, each EPi developer should know by heart. But I going to post them 
 
 #### Azure
 - [:globe_with_meridians: Deploying to Azure websites](http://world.episerver.com/Documentation/Items/Developers-Guide/EPiServer-CMS/75/Deployment/Deployment-scenarios/Deploying-to-Azure-websites/)
-- [EPiServer CMS site as Azure Web App](http://marisks.net/2015/04/11/episerver-cms-site-as-azure-web-app/) Howto with the new Preview portal.
+- [EPiServer CMS site as Azure Web App](http://marisks.net/2015/04/11/episerver-cms-site-as-azure-web-app/) 
+ - Howto with the new Preview portal.
 
 ### Blogs
 - [Joel Abrahamsson :arrow_right: EPiServer](http://joelabrahamsson.com/episerver/)
@@ -162,8 +176,10 @@ Most of them, each EPi developer should know by heart. But I going to post them 
 - [EPiServer Nuget Feed](http://nuget.episerver.com/)
 
 ### Other Sites
-- [:globe_with_meridians: World](http://world.episerver.com/) - It never hurts to have most of the obvious in the list...
-- [:octocat: awesome-EPiServer 7.5](https://github.com/giladDAN/awesome-EPiServer) - Didn't really know about this one, when I started with this list.
+- [:globe_with_meridians: World](http://world.episerver.com/)
+ - It never hurts to have most of the obvious in the list...
+- [:octocat: awesome-EPiServer 7.5](https://github.com/giladDAN/awesome-EPiServer) 
+ - Didn't really know about this one, when I started with this list.
 
 ### Page/Site Validation
 
