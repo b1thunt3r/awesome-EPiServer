@@ -23,20 +23,20 @@ Going to have resources for both EPiServer CMS 7/7.5+ and 6 and other EPiServer 
 3. [:octocat: MenuPin for EPiServer](https://github.com/davidknipe/MenuPin/)
 
 #### Properties
-- [:globe_with_meridians: Built-in property types](http://world.episerver.com/documentation/Items/Developers-Guide/EPiServer-CMS/8/Content/Properties/Property-types/built-in-property-types/)
-- [:globe_with_meridians: How to define properties in EPiServer 7 - A quick reference](http://world.episerver.com/blogs/Alexander-Haneng/Dates/2012/7/How-to-define-properties-in-EPiServer-7---A-quick-reference/)
-- [Improved CategoryList editor descriptor for EPiServer](http://geta.no/blogg/improved-categorylist-editor-descriptor-for-episerver/)
-- [:octocat: EPiImage](https://github.com/tuanvt/EPiImage-7.1)
+1. [:book:](pdf/EPi7/Editor UI/Properties/01.pdf) | [:globe_with_meridians: Built-in property types](http://world.episerver.com/documentation/Items/Developers-Guide/EPiServer-CMS/8/Content/Properties/Property-types/built-in-property-types/)
+2. [:book:](pdf/EPi7/Editor UI/Properties/02.pdf) | [:globe_with_meridians: How to define properties in EPiServer 7 - A quick reference](http://world.episerver.com/blogs/Alexander-Haneng/Dates/2012/7/How-to-define-properties-in-EPiServer-7---A-quick-reference/)
+3. [:book:](pdf/EPi7/Editor UI/Properties/03.pdf) | [Improved CategoryList editor descriptor for EPiServer](http://geta.no/blogg/improved-categorylist-editor-descriptor-for-episerver/)
+4. [:octocat: EPiImage](https://github.com/tuanvt/EPiImage-7.1)
  - Great property for better image management in EPi.
-- [EPiKnowledge :arrow_right: Properties](http://www.epiknowledge.com/en/episerver/75/properties/)
-- [:globe_with_meridians: Restriction of content types in properties](http://world.episerver.com/Blogs/Linus-Ekstrom/Dates/2013/12/Restriction-of-content-types-in-properties/)
+5. [:book:](pdf/EPi7/Editor UI/Properties/05.pdf) | [EPiKnowledge :arrow_right: Properties](http://www.epiknowledge.com/en/episerver/75/properties/)
+6. [:book:](pdf/EPi7/Editor UI/Properties/06.pdf) | [:globe_with_meridians: Restriction of content types in properties](http://world.episerver.com/Blogs/Linus-Ekstrom/Dates/2013/12/Restriction-of-content-types-in-properties/)
  - Covers both PageTypes and ContentAreas
-- [Joel Abrahamsson :arrow_right: Content areas](http://joelabrahamsson.com/tag/content-areas/)
-- [Content Area as Image list](https://gregwiechec.com/2015/04/content-area-as-image-list/)
-- [Joel Abrahamsson :arrow_right: Hiding EPiServer's standard Category property](http://joelabrahamsson.com/hiding-episervers-standard-category-property/)
-- [:globe_with_meridians: Strongly typed TinyMCE settings](http://world.episerver.com/Blogs/Torjus-Eidet/Dates/2014/4/Strongly-typed-TinyMCE-settings/) 
+7. [:book:](pdf/EPi7/Editor UI/Properties/07.pdf) | [Joel Abrahamsson :arrow_right: Content areas](http://joelabrahamsson.com/tag/content-areas/)
+8. [:book:](pdf/EPi7/Editor UI/Properties/08.pdf) | [Content Area as Image list](https://gregwiechec.com/2015/04/content-area-as-image-list/)
+9. [:book:](pdf/EPi7/Editor UI/Properties/09.pdf) | [Joel Abrahamsson :arrow_right: Hiding EPiServer's standard Category property](http://joelabrahamsson.com/hiding-episervers-standard-category-property/)
+10. [:book:](pdf/EPi7/Editor UI/Properties/10.pdf) | [:globe_with_meridians: Strongly typed TinyMCE settings](http://world.episerver.com/Blogs/Torjus-Eidet/Dates/2014/4/Strongly-typed-TinyMCE-settings/) 
  - Handy for specialized XHTML editor areas.
-- [Joel Abrahamsson :arrow_right: Hiding EPiServer's standard Category property](http://joelabrahamsson.com/hiding-episervers-standard-category-property/)
+11. [:book:](pdf/EPi7/Editor UI/Properties/11.pdf) | [Joel Abrahamsson :arrow_right: Hiding EPiServer's standard Category property](http://joelabrahamsson.com/hiding-episervers-standard-category-property/)
 
 ##### Dojo
 - [EPiServer: writing Dojo widget](http://marisks.net/2014/04/11/episerver-writing-dojo-widget/)
