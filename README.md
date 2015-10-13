@@ -39,12 +39,12 @@ Going to have resources for both EPiServer CMS 7/7.5+ and 6 and other EPiServer 
 11. [:book:](pdf/EPi7/Editor UI/Properties/11.pdf) | [Joel Abrahamsson :arrow_right: Hiding EPiServer's standard Category property](http://joelabrahamsson.com/hiding-episervers-standard-category-property/)
 
 ##### Dojo
-- [EPiServer: writing Dojo widget](http://marisks.net/2014/04/11/episerver-writing-dojo-widget/)
-- [EPiServer custom property in DOJO](http://www.patrickvankleef.com/2015/02/03/episerver-custom-property-in-dojo/)
-- [:globe_with_meridians: Introduction to Dojo](http://world.episerver.com/documentation/Items/Developers-Guide/EPiServer-CMS/8/User-interface/Introduction-to-Dojo/)
-- [The Dojo Toolkit API](http://dojotoolkit.org/api/)
+1. [:book:](pdf/EPi7/Editor UI/Properties/Dojo/01.pdf) | [EPiServer: writing Dojo widget](http://marisks.net/2014/04/11/episerver-writing-dojo-widget/)
+2. [:book:](pdf/EPi7/Editor UI/Properties/Dojo/02.pdf) | [EPiServer custom property in DOJO](http://www.patrickvankleef.com/2015/02/03/episerver-custom-property-in-dojo/)
+3. [:globe_with_meridians: Introduction to Dojo](http://world.episerver.com/documentation/Items/Developers-Guide/EPiServer-CMS/8/User-interface/Introduction-to-Dojo/)
+4. [The Dojo Toolkit API](http://dojotoolkit.org/api/)
  - Just in case
-- [Useful EPiServer Dojo links](http://www.david-tec.com/2014/08/EPiServer-Dojo-Useful-links/)
+5. [:book:](pdf/EPi7/Editor UI/Properties/Dojo/05.pdf) | [Useful EPiServer Dojo links](http://www.david-tec.com/2014/08/EPiServer-Dojo-Useful-links/)
  - A list with links relevant to custom properties and Doji in EPi.
 
 ### PageTypes/ContentTypes
