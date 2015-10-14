@@ -48,18 +48,17 @@ Going to have resources for both EPiServer CMS 7/7.5+ and 6 and other EPiServer 
  - A list with links relevant to custom properties and Doji in EPi.
 
 ### PageTypes/ContentTypes
-- [:globe_with_meridians: How to define default values for pages and blocks in EPiServer CMS 7](http://world.episerver.com/blogs/Alexander-Haneng/Dates/2012/9/How-to-define-default-values-for-pages-and-blocks-in-EPiServer-CMS-7/)
-- [:globe_with_meridians: Content type attributes](http://world.episerver.com/documentation/Items/Developers-Guide/EPiServer-CMS/8/Content/Attributes/)
-- [:globe_with_meridians: Restricting available page types for Root page](http://world.episerver.com/blogs/Dan-Matthews/Dates/2013/11/Restricting-available-page-types-for-Root-page/)
-- [:globe_with_meridians: Limiting a Page Property to a specific Page Type in EPiServer 7](http://world.episerver.com/blogs/Alexander-Haneng/Dates/2013/1/Limiting-a-Page-Property-to-a-specific-Page-Type-in-EPiServer-7/)
-- 
+1. [:globe_with_meridians: How to define default values for pages and blocks in EPiServer CMS 7](http://world.episerver.com/blogs/Alexander-Haneng/Dates/2012/9/How-to-define-default-values-for-pages-and-blocks-in-EPiServer-CMS-7/)
+2. [:globe_with_meridians: Content type attributes](http://world.episerver.com/documentation/Items/Developers-Guide/EPiServer-CMS/8/Content/Attributes/)
+3. [:globe_with_meridians: Restricting available page types for Root page](http://world.episerver.com/blogs/Dan-Matthews/Dates/2013/11/Restricting-available-page-types-for-Root-page/)
+4. [:globe_with_meridians:] Limiting a Page Property to a specific Page Type in EPiServer 7](http://world.episerver.com/blogs/Alexander-Haneng/Dates/2013/1/Limiting-a-Page-Property-to-a-specific-Page-Type-in-EPiServer-7/)
  - Even though AllowedType has been added to EPi 7.5, i think this might still be useful in some scenarios other then ContentType or ContentArea.
-- [Fallback property values in EPiServer using attributes](http://tedgustaf.com/blog/2014/11/fallback-property-values-in-episerver-using-attributes/) 
+5. [:book:](pdf/EPi7/Types/05.pdf) | [Fallback property values in EPiServer using attributes](http://tedgustaf.com/blog/2014/11/fallback-property-values-in-episerver-using-attributes/) 
  - Two ways of having fallback values
-- [:globe_with_meridians: Creating a Page Programmatically](http://world.episerver.com/documentation/Items/Developers-Guide/EPiServer-CMS/7/Content/Pages-and-Blocks/How-To/Creating-a-Page-Programmatically/)
+6. [:globe_with_meridians: Creating a Page Programmatically](http://world.episerver.com/documentation/Items/Developers-Guide/EPiServer-CMS/7/Content/Pages-and-Blocks/How-To/Creating-a-Page-Programmatically/)
 
 #### Retrieve
-- [How to get a page in EPiServer 7](http://tedgustaf.com/blog/2013/10/how-to-get-a-page-in-episerver-7/)
+1. [:book:](pdf/EPi7/Types/Retrieve/01.pdf) | [How to get a page in EPiServer 7](http://tedgustaf.com/blog/2013/10/how-to-get-a-page-in-episerver-7/)
  
 #### Rendering
 - [:globe_with_meridians: Rendering](http://world.episerver.com/documentation/Items/ Developers-Guide/EPiServer-CMS/8/Rendering/Rendering/)
