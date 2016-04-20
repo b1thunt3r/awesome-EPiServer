@@ -21,6 +21,7 @@ Going to have resources for both EPiServer CMS 7/7.5+ and 6 and other EPiServer 
 1. [:book:](pdf/EPi7/Editor UI/MenuItems/01.pdf) | [:globe_with_meridians: Menu Provider for EPiServer Top Navigation](http://world.episerver.com/blogs/Jacob-Khan/Dates/2013/1/Menu-Provider-for-EPiServer-Top-Navigation/)
 2. [:book:](pdf/EPi7/Editor UI/MenuItems/02.pdf) | [:globe_with_meridians: Extending the navigation](http://world.episerver.com/documentation/items/developers-guide/episerver-cms/75/user-interface/extending-the-navigation/)
 3. [:octocat: MenuPin for EPiServer](https://github.com/davidknipe/MenuPin/)
+4. [How To Create Your Own EpiServer Global Menu Section](http://jondjones.com/how-to-create-your-own-episerver-global-menu-section/)
 
 #### Properties
 1. [:book:](pdf/EPi7/Editor UI/Properties/01.pdf) | [:globe_with_meridians: Built-in property types](http://world.episerver.com/documentation/Items/Developers-Guide/EPiServer-CMS/8/Content/Properties/Property-types/built-in-property-types/)
@@ -69,6 +70,9 @@ Going to have resources for both EPiServer CMS 7/7.5+ and 6 and other EPiServer 
 - [:globe_with_meridians: EPiServer 7 - Rendering of content](http://world.episerver.com/blogs/Johan-Bjornfot/Dates1/2012/9/EPiServer-7--Rendering-of-content/)
 - [Building a PDF Channel for EPiServer 7](http://joelabrahamsson.com/building-a-pdf-channel-for-episerver-7/)
 - [How To Add A Link Into The QuickNavigatorMenu in EpiServer](http://jondjones.com/how-to-add-a-link-into-the-quicknavigatormenu-in-episerver/)
+### Admin
+#### Configuration Plugins
+1. (Settings for your application or module)[https://www.epinova.no/en/blog/settings-for-your-application-or-module/]
 
 ### Categories
 - [Programmatically retrieve the categories that can be assigned to pages in Episerver](http://stackoverflow.com/questions/23027114/programmatically-retrieve-the-categories-that-can-be-assigned-to-pages-in-episer)
