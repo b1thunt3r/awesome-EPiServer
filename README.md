@@ -183,6 +183,8 @@ Most of them, each EPi developer should know by heart. But I going to post them 
  - It never hurts to have most of the obvious in the list...
 - [:octocat: awesome-EPiServer 7.5](https://github.com/giladDAN/awesome-EPiServer) 
  - Didn't really know about this one, when I started with this list.
+- [:octocat: Awesome .NET](https://github.com/quozd/awesome-dotnet) 
+ - A list with .NET links and resources.
 
 ### Page/Site Validation
 
